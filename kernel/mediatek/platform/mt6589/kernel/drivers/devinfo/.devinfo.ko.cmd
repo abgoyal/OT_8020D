@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/devinfo/devinfo.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /local/zhengyan/GPL/scribepro/kernel/scripts/module-common.lds --build-id  -o mediatek/platform/mt6589/kernel/drivers/devinfo/devinfo.ko mediatek/platform/mt6589/kernel/drivers/devinfo/devinfo.o mediatek/platform/mt6589/kernel/drivers/devinfo/devinfo.mod.o

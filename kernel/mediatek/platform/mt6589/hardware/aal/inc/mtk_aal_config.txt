@@ -1,0 +1,5 @@
+PQIdx=1.3
+SmallestYmaxBin=24
+RatioForYMax=10
+RatioForRGBMax=10
+BLFilter=3,3

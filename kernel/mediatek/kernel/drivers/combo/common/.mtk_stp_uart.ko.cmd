@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/combo/common/mtk_stp_uart.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /local/zhengyan/GPL/scribepro/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/combo/common/mtk_stp_uart.ko mediatek/kernel/drivers/combo/common/mtk_stp_uart.o mediatek/kernel/drivers/combo/common/mtk_stp_uart.mod.o

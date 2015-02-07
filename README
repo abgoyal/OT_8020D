@@ -1,0 +1,6 @@
+Configuring environment:
+export arm-linux-androideabi-4.6 into environment PATH.
+
+Build command:
+cd /..../TCL_8020D/kernel
+TARGET_PRODUCT=scribepro MTK_ROOT_CUSTOM=../mediatek/custom/ make
